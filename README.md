@@ -5,7 +5,7 @@ Simulação em C do sincronismo do PIX: requisições de envio de dinheiro atend
 ## Integrantes
 
 | Nome | Matrícula | 
-| --- | --- | --- |
+| --- | --- |
 | CARLOS ALBERTO R. DA S. JUNIOR | 202200498 |
 | JOÃO VITOR JUSTINIANO T. BARBOSA| 202200528|
 
