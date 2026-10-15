@@ -14,8 +14,8 @@ Simulação em C do sincronismo do PIX: requisições de envio de dinheiro atend
 | Questão | Tema | Link |
 | --- | --- | --- |
 | 1 (5,0) | Sincronismo e condição de corrida |https://www.youtube.com/watch?v=fPnPTZM6COY|
-| 2 (3,0) | Proteção mínima e escalonador FCFS | _colar o link aqui_ |
-| 3 (2,0) | Debugging por sinais | _colar o link aqui_ |
+| 2 (3,0) | Proteção mínima e escalonador FCFS | https://www.youtube.com/watch?v=qODCYH_pdrM |
+| 3 (2,0) | Debugging por sinais | https://www.youtube.com/watch?v=hWqSx7-J2T4 |
 
 ## Como rodar
 
